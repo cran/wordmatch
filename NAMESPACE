@@ -1,0 +1,4 @@
+#' @docType wordmatch
+#' ...
+#' @import plyr reshape2 wordmatch
+
